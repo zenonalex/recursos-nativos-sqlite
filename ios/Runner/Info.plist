@@ -4,6 +4,13 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
+
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Buscar foto no rolo</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Fazer uma foto</string>
+
+
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
